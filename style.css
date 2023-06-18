@@ -62,7 +62,7 @@ font-size: 20px;
 }
 .header {
     height: 60 vh!important;
-    background: url(/img/VCP.jpg) no-repeat center;
+    background: url(https://github.com/damianBRAVO/PAGINA-WEB-BASICA/blob/main/img/VCP.jpg?raw=true) no-repeat center;
     background-size: cover;
 }
 .title {
